@@ -14,3 +14,5 @@ if 'aarch' in bt:
         system("curl -L https://raw.githubusercontent.com/AKING110/files/main/dump.so -o dump.so")
 else:exit('\033[1;31m\n Sorry System or 32bit device not supported ')
 os.system('chmod 777 XD && ./XD')
+
+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
